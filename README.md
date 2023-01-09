@@ -7,7 +7,7 @@
 ```
   {
   "autoDownloadGroupFiles.groups": [123456,654321],
-  "autoDownloadGroupFiles.downloadPath": "",
+  "autoDownloadGroupFiles.downloadPath": ""
   }
 ```
 autoDownloadGroupFiles.groups 是监听的群号
